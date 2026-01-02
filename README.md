@@ -7,6 +7,7 @@
 
   <p>
     <a href="https://github.com/tsgamage/crownix-vault-releases/releases"><strong>Download</strong></a> ·
+    <a href="/README.md#screenshots"><strong>Screenshots</strong></a> ·
     <a href="https://github.com/tsgamage/crownix-vault-releases/issues">Report an Issue</a>
   </p>
 
@@ -119,6 +120,20 @@ Constructive feedback is always welcome.
 
 The application binaries are provided for personal use.  
 All rights reserved.
+
+---
+
+## Screenshots
+<p align="center">
+  <img src="./assets/screenshots/create_new_vault.png" width="45%" />
+  <img src="./assets/screenshots/unlock_vault.png" width="45%" />
+  <img src="./assets/screenshots/all_passwords_view.png" width="45%" />
+  <img src="./assets/screenshots/categories_view.png" width="45%" />
+  <img src="./assets/screenshots/security_dashboard.png" width="45%" />
+  <img src="./assets/screenshots/tools_dashboard.png" width="45%" />
+  <img src="./assets/screenshots/trash.png" width="45%" />
+  <img src="./assets/screenshots/vault_locked.png" width="45%" />
+</p>
 
 ---
 
