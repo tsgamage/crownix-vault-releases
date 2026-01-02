@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Initial secure release of Crownix Vault",
+  "pub_date": "2026-01-02T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/tsgamage/crownix-vault-releases/releases/download/v1.0.0/CrownixVault_1.0.0_x64.exe",
+      "signature": "PASTE_THE_CONTENT_OF_.sig_FILE_HERE"
+    }
+  }
+}
