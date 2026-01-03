@@ -2,7 +2,7 @@
   <h1>Crownix Vault</h1>
   <p>
     <strong>Local-first password manager for Windows.</strong><br />
-    Your passwords. Your device. Your control.
+    Secure. Private. Yours.
   </p>
 
   <p>
