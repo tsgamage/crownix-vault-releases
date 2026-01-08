@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Initial secure release of Crownix Vault",
-  "pub_date": "2026-01-02T12:00:00Z",
+  "version": "1.1.0",
+  "notes": "Crownix Vault v1.1.0",
+  "pub_date": "2026-01-08T12:40:27+05:30",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/tsgamage/crownix-vault-releases/releases/download/v1.0.0/CrownixVault_1.0.0_x64.exe",
-      "signature": "PASTE_THE_CONTENT_OF_.sig_FILE_HERE"
+      "url": "https://github.com/tsgamage/crownix-vault-releases/releases/download/v1.1.0/Crownix.Vault_1.1.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdE9KT09uRk83NU9PSUczZHlsUFVuVkJtSnBaRFJqR1FVVFFEUmQwZ2ZkYkJoNXNUZUlBMUI1YkpzcExHMnN3bUMzSHFUMk5YWEN6OXBiYnVuRWhlTGgzdHI5MTNXK0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODU0NjU2CWZpbGU6Q3Jvd25peCBWYXVsdF8xLjEuMF94NjQtc2V0dXAuZXhlCjNBRC9IejRGR0ZTZFZ2UUFRSXA2N0NUT3Z0SHM4eGg2d3l2c0xEeUt6bXdHZ0JycDhwSmZYTGM5d0pqdnVqNlJTZzZuWTYzc1ZIMEZLVy95WVZSU0R3PT0K"
     }
   }
 }
